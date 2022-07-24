@@ -14,7 +14,7 @@ In addition to the compiler, this project also comes with a packing program. It 
 
 ## Documentation
 
-[The official document address is here]([CarbonScript Documentation](https://carbonscript.github.io/)). This document provides the learning materials of Carbon Script and the usage of the compiler to tell you how to create projects, write code, generate programs, and run programs. Most problems can be found here.
+The official document address is here:([CarbonScript Documentation](https://carbonscript.github.io/)). This document provides the learning materials of Carbon Script and the usage of the compiler to tell you how to create projects, write code, generate programs, and run programs. Most problems can be found here.
 
 
 
