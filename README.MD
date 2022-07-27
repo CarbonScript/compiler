@@ -6,11 +6,11 @@ This project implements the compiler of Carbon Script. Taking Carbon Script as a
 
 In addition to the compiler, this project also comes with a packing program. It packs the compiled JavaScript file into a Node package, which can run this program through the package management command.
 
-
-
 ![](./assets/readme-workflow.svg)
 
+## Usage
 
+Based on the operating platform, this project can generate three corresponding target packages: Browser Library, Nodejs Library, Nodejs Application. See the following commands below to build them.
 
 ## Documentation
 
