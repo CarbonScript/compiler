@@ -1,1 +1,5 @@
-/target
+# dependencies
+/node_modules
+
+# builded files
+/build
